@@ -1,3 +1,9 @@
-Model,Test accuracy
-All 13 scaled features,0.9722222222222222
-First 10 principal components,0.9722222222222222
+n_components,Test Accuracy
+2,0.525
+5,0.8056
+10,0.8778
+15,0.9306
+20,0.9417
+31,0.9472
+40,0.9528
+64,0.9722
