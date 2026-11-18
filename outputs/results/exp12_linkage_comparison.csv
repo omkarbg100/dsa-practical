@@ -1,4 +1,5 @@
-Linkage,Adjusted Rand index
-ward,0.9159398374523873
-complete,0.8949027981740776
-single,0.6571945818315974
+Linkage,Silhouette
+Ward,0.2547
+Complete,0.2981
+Average,0.5417
+Single,0.5062
